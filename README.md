@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, JPA,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anshu-Bhagat?tab=repositories](https://github.com/Anshu-Bhagat?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Priyanshu7204?tab=repositories](https://github.com/Priyanshu7204?tab=repositories)
 
 - 💬 Ask me about **J2EE, SQL, HTML, CSS**
 
